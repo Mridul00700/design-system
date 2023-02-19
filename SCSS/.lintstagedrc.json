@@ -1,0 +1,5 @@
+{
+    "*scss": [
+      "npm run lint:fix"
+    ]
+  }
