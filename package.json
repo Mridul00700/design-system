@@ -1,1 +1,15 @@
-{}
+{
+  "name": "@designsystem/core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^6.6.2"
+  },
+  "private": true,
+  "workspaces": {
+    "packages" : [
+      "packages/*"
+    ]
+  }
+}
